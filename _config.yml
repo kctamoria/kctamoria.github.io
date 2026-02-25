@@ -1,11 +1,11 @@
 title: Khristian-Rey Tamoria # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am currently pursuing a BS degree in Cognitive Science with a Specialization in Machine Learning and Neural Computation at UC San Diego. 
   <br><br>
-  Second description 
+  As a determined and reliable learner, data has always interested me, and I am excited to continue gaining more knowledge.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/khristiantamoria/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
