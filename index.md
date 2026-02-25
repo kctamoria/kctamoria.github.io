@@ -1,16 +1,16 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects 
+## Projects 
 
-[COGS 150: Evaluating LLM Sensitivity to World-Knowledge Plausibility Violations](/sample_page)
+### [COGS 150: Evaluating LLM Sensitivity to World-Knowledge Plausibility Violations](/sample_page)
 <br>
 This project evaluates how large language models (LLMs) respond to semantically plausible/implausible sentences. Using a cognitive science lens, I carefully designed minimal sentence pairs. I computed their token-level surprisal scores across multiple models in the transformers library to compare how each LLM responded to plausible vs. implausible stimuli.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[COGS 108: Comparing Social and Economic Drivers of Happiness in Asian vs. Non-Asian Countries](/pdf/sample_presentation.pdf)
+### [COGS 108: Comparing Social and Economic Drivers of Happiness in Asian vs. Non-Asian Countries](/pdf/sample_presentation.pdf)
  <br>
 This EDA project examines how factors influencing national happiness scores vary between Asian and non-Asian countries, utilizing data from the World Happiness Report (2015-2018) and educational attainment statistics from the World Bank Group.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
